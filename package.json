@@ -1,0 +1,9 @@
+{
+  "name": "ts-remove-unused",
+  "version": "0.1.0",
+  "description": "",
+  "type": "module",
+  "bin": "./main.js",
+  "author": "Kazushi Konosu",
+  "license": "MIT"
+}
